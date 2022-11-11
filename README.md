@@ -1,1 +1,1 @@
-
+This file contains all my implementations of the algorithms described in the book "Grokking Algorithms." I recommend this book to anyone who had an unconventional CS education and wants to wrap their head around some of the common algorithms taught in CS classes. I felt like I had a good understanding of algorithms in bioinformatics from my classwork, but wanted to get a better grasp on the fundamentals. I read this book and wrote the code on repl.it about a year ago - it gave me something to do while I was working at an apartment complex front desk on the weekends! :P
